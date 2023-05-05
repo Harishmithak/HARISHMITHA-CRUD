@@ -1,0 +1,13 @@
+{
+  "events": [
+    {
+      "ename": "anniversary",
+      "cname": "saran",
+      "session": "evening",
+      "venue": "peelamedu",
+      "date": "21-03-2022",
+      "avatar": "assets/images/2.png",
+      "id": 1
+    }
+  ]
+}
